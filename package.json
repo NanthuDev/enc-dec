@@ -1,0 +1,19 @@
+{
+  "name": "enc_dec",
+  "version": "1.0.0",
+  "description": "Try Encryption and Decryptions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanthuDev/enc-dec.git"
+  },
+  "author": "Nanthakumar D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanthuDev/enc-dec/issues"
+  },
+  "homepage": "https://github.com/NanthuDev/enc-dec#readme"
+}
