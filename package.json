@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/NanthuDev/enc-dec#readme",
   "dependencies": {
+    "express": "^4.19.2",
     "speakeasy": "^2.0.0"
   }
 }
