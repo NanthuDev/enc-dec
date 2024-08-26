@@ -13,6 +13,10 @@ app.post('/hotp',(req,res)=>{res.send("Test")})
 app.post('/totp',(req,res)=>{res.send("Test")})
 
 
+app.post('/qrcode',(req,res)=>{res.send("Test")})
+app.post('/totp',(req,res)=>{res.send("Test")})
+
+
 app.listen(3000,()=>{
     console.log("App connected at 3000")
 })
